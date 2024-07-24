@@ -8,6 +8,8 @@ Building self-service digital assistant using amazon Bedrock, amazon Lex , Cloud
 ![ViewCount](https://views.whatilearened.today/views/github/fermat01/Building-ai-digital-assistant.svg?cache=remove)
 
 
+
+
 ## 1. Introduction
 
 
